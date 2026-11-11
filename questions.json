@@ -1,0 +1,452 @@
+[
+  {
+    "id": 1,
+    "question": "The marketing team is responsible for _____ the new product.",
+    "options": [
+      "promote",
+      "promoting",
+      "promotion",
+      "promoted"
+    ],
+    "answer": 1,
+    "category": "동명사",
+    "explanation": "전치사 for 뒤에는 동명사(-ing)가 와요.",
+    "translation": "마케팅팀은 신제품 홍보를 담당합니다.",
+    "detail": "be responsible for는 ~을 담당하다라는 고정 표현이야. for는 전치사이므로 뒤에 동사원형 promote가 아니라 동명사 promoting이 와야 해."
+  },
+  {
+    "id": 2,
+    "question": "All employees must submit their reports _____ Friday.",
+    "options": [
+      "until",
+      "by",
+      "during",
+      "since"
+    ],
+    "answer": 1,
+    "category": "전치사",
+    "explanation": "마감 기한은 by + 시점을 사용해요.",
+    "translation": "모든 직원은 금요일까지 보고서를 제출해야 합니다.",
+    "detail": "submit이라는 제출 동작이 금요일까지 완료되어야 하므로 마감 시점을 뜻하는 by가 맞아. until은 그때까지 상태나 행동이 계속될 때 주로 사용해."
+  },
+  {
+    "id": 3,
+    "question": "The new software is _____ more efficient than the previous version.",
+    "options": [
+      "significant",
+      "significance",
+      "significantly",
+      "signify"
+    ],
+    "answer": 2,
+    "category": "품사",
+    "explanation": "비교급 more efficient를 강조하는 부사가 필요해요.",
+    "translation": "새 소프트웨어는 이전 버전보다 훨씬 더 효율적입니다.",
+    "detail": "more efficient는 형용사 비교급 표현이야. 이를 수식하려면 부사 significantly가 필요해. significant는 형용사라서 이 자리에 직접 올 수 없어."
+  },
+  {
+    "id": 4,
+    "question": "Please contact the manager if you have _____ questions.",
+    "options": [
+      "any",
+      "much",
+      "every",
+      "each"
+    ],
+    "answer": 0,
+    "category": "한정사",
+    "explanation": "복수 가산명사 questions 앞에 any가 자연스러워요.",
+    "translation": "질문이 있다면 관리자에게 연락하세요.",
+    "detail": "questions는 셀 수 있는 복수명사야. 조건절에서 어떤 질문이라도라는 뜻을 만들 때 any questions가 자연스러워. much는 불가산명사와 사용해."
+  },
+  {
+    "id": 5,
+    "question": "The contract will be renewed _____ both parties agree.",
+    "options": [
+      "unless",
+      "provided that",
+      "despite",
+      "because of"
+    ],
+    "answer": 1,
+    "category": "접속사",
+    "explanation": "provided that은 ~라는 조건으로라는 뜻이에요.",
+    "translation": "양측이 동의한다는 조건으로 계약이 갱신됩니다.",
+    "detail": "both parties agree는 주어와 동사를 갖춘 절이야. provided that은 ~라는 조건으로라는 의미의 접속사라서 계약 갱신 조건을 연결해."
+  },
+  {
+    "id": 6,
+    "question": "The documents _____ yesterday are now available online.",
+    "options": [
+      "submit",
+      "submitting",
+      "submitted",
+      "submission"
+    ],
+    "answer": 2,
+    "category": "분사",
+    "explanation": "제출된 서류이므로 과거분사 submitted가 필요해요.",
+    "translation": "어제 제출된 서류를 온라인에서 볼 수 있습니다.",
+    "detail": "documents는 제출하는 주체가 아니라 제출되는 대상이야. 따라서 과거분사 submitted가 documents를 뒤에서 수식해."
+  },
+  {
+    "id": 7,
+    "question": "The director asked that the proposal _____ revised.",
+    "options": [
+      "is",
+      "was",
+      "be",
+      "being"
+    ],
+    "answer": 2,
+    "category": "동사원형",
+    "explanation": "요구를 나타내는 ask that 절에는 (should) + 동사원형을 써요.",
+    "translation": "이사는 제안서를 수정하도록 요청했습니다.",
+    "detail": "ask that + 주어 + (should) 동사원형은 요구를 표현하는 구조야. proposal이 수정되는 것이므로 be revised라는 수동태 동사원형이 필요해."
+  },
+  {
+    "id": 8,
+    "question": "The company has expanded _____ into overseas markets.",
+    "options": [
+      "success",
+      "successful",
+      "successfully",
+      "succeed"
+    ],
+    "answer": 2,
+    "category": "품사",
+    "explanation": "동사 expanded를 수식하므로 부사 successfully를 써요.",
+    "translation": "회사는 해외 시장에 성공적으로 진출했습니다.",
+    "detail": "expanded는 동사야. 확장이 어떻게 이루어졌는지를 설명하는 부사 successfully가 와야 해."
+  },
+  {
+    "id": 9,
+    "question": "_____ the unexpected delay, the event began on time.",
+    "options": [
+      "Although",
+      "Despite",
+      "Because",
+      "Even though"
+    ],
+    "answer": 1,
+    "category": "전치사",
+    "explanation": "뒤에 명사구가 오므로 전치사 Despite가 맞아요.",
+    "translation": "예상치 못한 지연에도 행사는 정시에 시작했습니다.",
+    "detail": "the unexpected delay는 주어와 동사가 없는 명사구야. despite는 명사구를 목적어로 취하는 전치사이므로 적절해. although는 절을 이끌어."
+  },
+  {
+    "id": 10,
+    "question": "Applicants should have at least three years of _____ experience.",
+    "options": [
+      "relevance",
+      "relevant",
+      "relevantly",
+      "relate"
+    ],
+    "answer": 1,
+    "category": "품사",
+    "explanation": "명사 experience를 꾸미는 형용사 relevant가 필요해요.",
+    "translation": "지원자는 최소 3년의 관련 경력이 있어야 합니다.",
+    "detail": "experience는 명사이므로 앞에서 수식하는 형용사 relevant가 필요해. relevance는 명사, relevantly는 부사야."
+  },
+  {
+    "id": 11,
+    "question": "The meeting has been _____ until next Tuesday.",
+    "options": [
+      "postpone",
+      "postponing",
+      "postponed",
+      "postponement"
+    ],
+    "answer": 2,
+    "category": "수동태",
+    "explanation": "has been + 과거분사로 현재완료 수동태를 만들어요.",
+    "translation": "회의는 다음 주 화요일까지 연기되었습니다.",
+    "detail": "has been 다음에는 과거분사가 와서 현재완료 수동태를 완성해. 회의가 연기된 것이므로 postponed가 맞아."
+  },
+  {
+    "id": 12,
+    "question": "Employees are encouraged to participate _____ the workshop.",
+    "options": [
+      "at",
+      "in",
+      "on",
+      "for"
+    ],
+    "answer": 1,
+    "category": "전치사",
+    "explanation": "participate in은 ~에 참여하다라는 표현이에요.",
+    "translation": "직원들은 워크숍에 참여하도록 권장됩니다.",
+    "detail": "participate는 자동사로, 행사에 참여한다는 뜻일 때 participate in + 행사/활동의 형태로 써."
+  },
+  {
+    "id": 13,
+    "question": "The CEO will _____ the annual conference tomorrow.",
+    "options": [
+      "address",
+      "addressing",
+      "addressed",
+      "addresses"
+    ],
+    "answer": 0,
+    "category": "동사",
+    "explanation": "조동사 will 뒤에는 동사원형이 와요.",
+    "translation": "CEO는 내일 연례 회의에서 연설할 예정입니다.",
+    "detail": "will 다음에는 동사원형이 와야 해. address는 사람들에게 연설하다라는 동사로 conference와 자연스럽게 어울려."
+  },
+  {
+    "id": 14,
+    "question": "The revised schedule will be announced _____ .",
+    "options": [
+      "short",
+      "shortly",
+      "shorten",
+      "shortness"
+    ],
+    "answer": 1,
+    "category": "품사",
+    "explanation": "동사 announced를 꾸미는 부사 shortly가 맞아요.",
+    "translation": "수정된 일정은 곧 발표됩니다.",
+    "detail": "announced는 동사이므로 발표가 언제 이루어지는지를 나타내는 부사 shortly가 자연스러워. shortly는 곧이라는 뜻이야."
+  },
+  {
+    "id": 15,
+    "question": "The report contains _____ information about the project.",
+    "options": [
+      "detail",
+      "detailed",
+      "detailing",
+      "details"
+    ],
+    "answer": 1,
+    "category": "품사",
+    "explanation": "명사 information 앞에는 형용사 detailed가 와요.",
+    "translation": "보고서에는 프로젝트에 관한 상세한 정보가 있습니다.",
+    "detail": "information은 명사야. 앞에서 내용을 구체적으로 설명하는 형용사 detailed가 필요해."
+  },
+  {
+    "id": 16,
+    "question": "We appreciate your _____ response to our inquiry.",
+    "options": [
+      "prompt",
+      "promptly",
+      "promptness",
+      "prompted"
+    ],
+    "answer": 0,
+    "category": "품사",
+    "explanation": "명사 response를 꾸미는 형용사 prompt가 맞아요.",
+    "translation": "문의에 신속히 답변해 주셔서 감사합니다.",
+    "detail": "response는 명사이므로 이를 꾸미는 형용사 prompt가 적절해. prompt response는 신속한 답변이라는 빈출 표현이야."
+  },
+  {
+    "id": 17,
+    "question": "The new policy applies to _____ employees.",
+    "options": [
+      "all",
+      "every",
+      "each",
+      "much"
+    ],
+    "answer": 0,
+    "category": "한정사",
+    "explanation": "복수명사 employees 앞에는 all을 쓸 수 있어요.",
+    "translation": "새 정책은 모든 직원에게 적용됩니다.",
+    "detail": "employees는 복수명사야. all employees는 모든 직원이라는 뜻이고, 정책 적용 대상을 전체로 나타내."
+  },
+  {
+    "id": 18,
+    "question": "The shipment arrived _____ than expected.",
+    "options": [
+      "early",
+      "earlier",
+      "earliest",
+      "earliness"
+    ],
+    "answer": 1,
+    "category": "비교급",
+    "explanation": "than과 함께 비교급 earlier를 써요.",
+    "translation": "배송물이 예상보다 일찍 도착했습니다.",
+    "detail": "than expected가 비교의 기준이므로 비교급 earlier가 필요해. earlier than expected는 예상보다 일찍이라는 뜻이야."
+  },
+  {
+    "id": 19,
+    "question": "Please ensure that the doors are _____ locked.",
+    "options": [
+      "secure",
+      "security",
+      "securely",
+      "securing"
+    ],
+    "answer": 2,
+    "category": "품사",
+    "explanation": "과거분사 locked를 수식하는 부사 securely가 필요해요.",
+    "translation": "문이 안전하게 잠겼는지 확인하세요.",
+    "detail": "locked는 상태를 나타내는 분사야. 잠긴 정도나 방식을 수식하는 부사 securely가 적절해."
+  },
+  {
+    "id": 20,
+    "question": "The position requires excellent _____ skills.",
+    "options": [
+      "communicate",
+      "communication",
+      "communicative",
+      "communicating"
+    ],
+    "answer": 1,
+    "category": "명사",
+    "explanation": "communication skills는 의사소통 능력이라는 표현이에요.",
+    "translation": "그 직무에는 뛰어난 의사소통 능력이 필요합니다.",
+    "detail": "skills는 명사이고 앞에는 어떤 기술인지 나타내는 명사 communication이 올 수 있어. communication skills는 의사소통 능력이라는 연어야."
+  },
+  {
+    "id": 21,
+    "question": "The manager is _____ for approving travel expenses.",
+    "options": [
+      "responsible",
+      "responsibility",
+      "responsibly",
+      "respond"
+    ],
+    "answer": 0,
+    "category": "형용사",
+    "explanation": "be responsible for는 ~을 책임지다라는 표현이에요.",
+    "translation": "관리자는 출장 경비 승인을 담당합니다.",
+    "detail": "be responsible for는 ~에 책임이 있다라는 표현이야. responsible은 형용사이며 be동사 뒤에서 보어 역할을 해."
+  },
+  {
+    "id": 22,
+    "question": "The office will remain closed _____ the holiday.",
+    "options": [
+      "during",
+      "while",
+      "because",
+      "although"
+    ],
+    "answer": 0,
+    "category": "전치사",
+    "explanation": "명사 the holiday 앞에는 전치사 during이 와요.",
+    "translation": "사무실은 휴일 동안 문을 닫습니다.",
+    "detail": "the holiday는 특정 기간을 뜻하는 명사구야. during은 ~동안이라는 전치사로 기간 중의 상태를 표현해."
+  },
+  {
+    "id": 23,
+    "question": "Customers may request a refund _____ 30 days of purchase.",
+    "options": [
+      "within",
+      "between",
+      "among",
+      "throughout"
+    ],
+    "answer": 0,
+    "category": "전치사",
+    "explanation": "within 30 days는 30일 이내에라는 뜻이에요.",
+    "translation": "고객은 구매 후 30일 이내에 환불을 요청할 수 있습니다.",
+    "detail": "within 30 days는 30일 이내에라는 뜻이야. by는 특정 마감 시점, within은 일정 기간의 범위 안을 강조해."
+  },
+  {
+    "id": 24,
+    "question": "The presentation was _____ received by the audience.",
+    "options": [
+      "positive",
+      "positively",
+      "positivity",
+      "positives"
+    ],
+    "answer": 1,
+    "category": "품사",
+    "explanation": "received를 꾸미는 부사 positively가 맞아요.",
+    "translation": "발표는 청중에게 긍정적인 반응을 얻었습니다.",
+    "detail": "received는 동사이므로 어떻게 받아들여졌는지 설명하는 부사 positively가 필요해."
+  },
+  {
+    "id": 25,
+    "question": "The factory has increased its production _____ .",
+    "options": [
+      "capacity",
+      "capable",
+      "capably",
+      "capacities"
+    ],
+    "answer": 0,
+    "category": "명사",
+    "explanation": "production capacity는 생산 능력이라는 표현이에요.",
+    "translation": "공장은 생산 능력을 늘렸습니다.",
+    "detail": "production capacity는 생산 능력이라는 고정적으로 자주 쓰이는 명사 결합이야. increased its production capacity는 생산 능력을 늘렸다는 뜻이야."
+  },
+  {
+    "id": 26,
+    "question": "The application must be completed _____ it is submitted.",
+    "options": [
+      "before",
+      "despite",
+      "during",
+      "because of"
+    ],
+    "answer": 0,
+    "category": "접속사",
+    "explanation": "뒤에 주어와 동사가 있는 절이 오므로 before가 맞아요.",
+    "translation": "신청서는 제출 전에 작성이 완료되어야 합니다.",
+    "detail": "it is submitted는 주어와 동사가 있는 절이야. 제출되기 전에 작성되어야 하므로 시간 접속사 before가 맞아."
+  },
+  {
+    "id": 27,
+    "question": "The committee will review the proposal _____ .",
+    "options": [
+      "care",
+      "careful",
+      "carefully",
+      "carefulness"
+    ],
+    "answer": 2,
+    "category": "품사",
+    "explanation": "동사 review를 수식하는 부사 carefully가 맞아요.",
+    "translation": "위원회는 제안서를 신중히 검토할 것입니다.",
+    "detail": "review는 동사이고 carefully는 검토하는 방식을 나타내는 부사야. careful은 형용사라서 동사를 직접 수식할 수 없어."
+  },
+  {
+    "id": 28,
+    "question": "Our customer service team is available _____ the clock.",
+    "options": [
+      "around",
+      "under",
+      "between",
+      "among"
+    ],
+    "answer": 0,
+    "category": "숙어",
+    "explanation": "around the clock은 24시간 내내라는 뜻이에요.",
+    "translation": "고객 서비스팀은 24시간 이용 가능합니다.",
+    "detail": "around the clock은 24시간 내내라는 숙어야. 단어를 분리해 해석하기보다 한 덩어리로 기억해."
+  },
+  {
+    "id": 29,
+    "question": "The product is currently out of _____ .",
+    "options": [
+      "stock",
+      "store",
+      "sale",
+      "order"
+    ],
+    "answer": 0,
+    "category": "어휘",
+    "explanation": "out of stock은 품절이라는 뜻이에요.",
+    "translation": "그 제품은 현재 품절입니다.",
+    "detail": "out of stock은 품절된이라는 고정 표현이야. in stock은 재고가 있는이라는 반대 표현이야."
+  },
+  {
+    "id": 30,
+    "question": "Ms. Lee has worked at the company _____ 2021.",
+    "options": [
+      "for",
+      "since",
+      "during",
+      "until"
+    ],
+    "answer": 1,
+    "category": "시제",
+    "explanation": "현재완료와 시작 시점에는 since를 사용해요.",
+    "translation": "이 씨는 2021년부터 그 회사에서 일해 왔습니다.",
+    "detail": "현재완료 has worked와 2021이라는 시작 시점이 함께 쓰였어. since는 시작 시점, for는 지속 기간을 나타내."
+  }
+]
